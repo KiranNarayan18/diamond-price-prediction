@@ -1,0 +1,4 @@
+[ 2023-04-24 22:42:12,642 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-24 22:42:12,650 ] 224 werkzeug - INFO -  * Debugger PIN: 111-831-536
+[ 2023-04-24 22:42:17,026 ] 224 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2023 22:42:17] "GET / HTTP/1.1" 200 -
+[ 2023-04-24 23:15:29,041 ] 224 werkzeug - INFO - 127.0.0.1 - - [24/Apr/2023 23:15:29] "GET / HTTP/1.1" 200 -
